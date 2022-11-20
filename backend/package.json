@@ -9,6 +9,9 @@
   "author": "Hardik",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.20"
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
   }
 }
